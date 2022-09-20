@@ -1,6 +1,6 @@
 ---
 created: 2022-09-19T20:54:05-03:00
-modified: 2022-09-19T21:09:12-03:00
+modified: 2022-09-19T21:18:52-03:00
 ---
 
 # História da Loja Valentino
@@ -22,6 +22,6 @@ Autêntico, todo o amor de Valentino pela moda foi passado para suas criações.
 ---
 Já de volta à Itália, Valentino inaugurou seu primeiro estúdio de moda, em Roma, no ano de 1959. Daí em diante, a história foi escrita como conhecemos: com um império que fez de Valentino um dos principais nomes da história da moda.
 
-Atualmente, a marca faz parte do *Valentino Fashion Group*, que é um consórcio italiano de empresas de moda de luxo. Esse consórcio, por sua vez, pertence a um grupo de investimentos do Catar. Como é uma logotipo famosa, existem várias lojas com vários preços diferentes.
+Atualmente, a marca faz parte do *Valentino Fashion Group*, que é um consórcio italiano de empresas de moda de luxo. Esse consórcio, por sua vez, pertence a um grupo de investimentos do [Catar](https://pt.m.wikipedia.org/wiki/Catar). Como é uma logotipo famosa, existem várias lojas com vários preços diferentes.
 
 ![Image](./0b8b396d349187db28a5953f2eb317c6.jpg)
